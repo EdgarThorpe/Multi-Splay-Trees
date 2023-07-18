@@ -1,5 +1,5 @@
 //Vrinda Dua(2021mcb1223), Ayush Raj(2021mcb1346), Edgar Aditya Thorpe(2021csb1169)
-//Multi-Splay Tree implimentation
+//Multi-Splay Tree implementation
 
 #include<bits/stdc++.h>
 #include<chrono>
